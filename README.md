@@ -1,4 +1,4 @@
-# 🇮🇳 India General Election 2024: A Data Analysis Dashboard
+# India General Election 2024: A Data Analysis Dashboard
 
 ---
 
